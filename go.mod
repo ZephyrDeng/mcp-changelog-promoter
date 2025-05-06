@@ -1,4 +1,4 @@
-module mcp-changelog-promoter
+module github.com/ZephyrDeng/mcp-changelog-promoter
 
 go 1.23.3
 

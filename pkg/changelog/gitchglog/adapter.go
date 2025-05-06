@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"mcp-changelog-promoter/pkg/changelog"
+	"github.com/ZephyrDeng/mcp-changelog-promoter/pkg/changelog"
 )
 
 // Adapter interacts with the git-chglog command-line tool.

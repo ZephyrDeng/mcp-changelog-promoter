@@ -3,7 +3,7 @@ package promoter
 import (
 	"fmt"
 
-	"mcp-changelog-promoter/pkg/changelog"
+	"github.com/ZephyrDeng/mcp-changelog-promoter/pkg/changelog"
 )
 
 // PromotionTask 包含生成宣传文案所需的提示和上下文

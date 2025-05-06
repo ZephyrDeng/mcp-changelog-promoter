@@ -6,10 +6,10 @@ import (
 	"log"
 	"path/filepath"
 
-	"mcp-changelog-promoter/pkg/changelog"
-	"mcp-changelog-promoter/pkg/changelog/gitchglog"
-	"mcp-changelog-promoter/pkg/changelog/releaseit"
-	"mcp-changelog-promoter/pkg/promoter"
+	"github.com/ZephyrDeng/mcp-changelog-promoter/pkg/changelog"
+	"github.com/ZephyrDeng/mcp-changelog-promoter/pkg/changelog/gitchglog"
+	"github.com/ZephyrDeng/mcp-changelog-promoter/pkg/changelog/releaseit"
+	"github.com/ZephyrDeng/mcp-changelog-promoter/pkg/promoter"
 
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
